@@ -1,2 +1,2 @@
 # Stop-watch
-it is related to Prodigy Infotech
+it is related to Prodigy Infotech.
